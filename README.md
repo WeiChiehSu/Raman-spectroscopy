@@ -34,9 +34,9 @@ make all
 
 make epw
 
-# download QERaman
-
 When we finish installing quantum espresso, we need to install QERaman
+
+# download QERaman
 
 git clone https://github.com/nguyen-group/QERaman.git
 
